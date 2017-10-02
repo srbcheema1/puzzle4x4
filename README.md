@@ -1,5 +1,10 @@
 ## Puzzle4x4
 This is a simple and fun picture puzzle game.
+goal is to make a complete image.  
+The user may move one tile at a time by trading places with an adjacent tile until each tile is in the correct place.
+But be careful not to get cornered with one piece on the wrong side!
+Guaranteed to be a lot of fun and to encourage creative and logical thinking. :)
+
 
 ![Screenshot](/assets/screenshot1.png?raw=true )
 
