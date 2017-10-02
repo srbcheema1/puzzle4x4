@@ -1,5 +1,5 @@
 ## Puzzle4x4
-A simple and fun picture solving game.
+This is a simple and fun picture puzzle game.
 
 ![Screenshot](/assets/screenshot1.png?raw=true )
 
@@ -11,4 +11,4 @@ You may also use W A S D to move the blank picture.
 
 The game must be finished within 200 moves.
 
-The score (which is equal to the moves left) will only be awarded when you finish solving the puzzle.
+The score (which is equal to the moves left) will only be displayed when solve the puzzle.
