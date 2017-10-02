@@ -12,3 +12,7 @@ You may also use W A S D to move the blank picture.
 The game must be finished within 200 moves.
 
 The score (which is equal to the moves left) will only be awarded when you finish solving the puzzle.
+
+# W A S D Control
+![Screenshot](/assets/screenshot2.jpg?raw=true )
+
