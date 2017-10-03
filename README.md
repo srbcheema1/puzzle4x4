@@ -7,7 +7,7 @@ But be careful not to get cornered with one piece on the wrong side!
 Guaranteed to be a lot of fun and to encourage creative and logical thinking. :)
 
 
-![Screenshot](/assets/screenshot1.png?raw=true )
+![Screenshot](/assets/Screenshot1.png?raw=true )
 
 ## How to run the project
 
