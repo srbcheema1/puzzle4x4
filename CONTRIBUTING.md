@@ -16,5 +16,4 @@
     <li>here X is a number</li>
     <li>Also dont forget to confirm that your pic number X is unique</li>
   </ul>
-also be sure that no two sliced images are identical in appearance
-other it would create confusion for the player
+###also be sure that no two sliced images are identical in appearance ,otherwise it would create confusion for the player
