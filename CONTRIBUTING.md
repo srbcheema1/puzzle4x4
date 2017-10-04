@@ -16,3 +16,17 @@ Thanks for taking the time to contribute to this project. Before making PRs, ple
 - Close the issue
 
 
+## Uploading new images
+When uploading new images, please adhere to the following:
+
+# Dimentions rule
+  * Main image size: 960x960 pixels
+  * Sliced image size: 120x120pixels
+
+# Naming rule:
+  * Main image name must be picX.jpg
+  * Sliced image name must be slice X pic X.jpg
+  * Here X is a number
+  * Also dont forget to confirm that your pic number X is unique
+
+### also be sure that no two sliced images are identical in appearance ,otherwise it would create confusion for the player
