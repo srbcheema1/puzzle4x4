@@ -34,4 +34,4 @@ Guaranteed to be a lot of fun and to encourage creative and logical thinking. :)
 The score is calculated based on the Moves left at the time you have completed the Puzzle.
 So the lesser number of steps you use the more points you will get.
 
-There is a move limit of 200. If you have run out of moves, the game ends.
+There is a move limit of 200. If you have run out of moves, the Game ends.
